@@ -1,0 +1,29 @@
+.bgImage {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+}
+
+.arrows {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}
+button {
+  background-color: transparent;
+  border-width: 0px;
+}
